@@ -1,4 +1,4 @@
 # ascii-arts
-![main](img/1.png)
-![pis](img/1.png)
-![text](img/1.png)
+![main](pic_sample/1.png)
+![pis](pic_sample/1.png)
+![text](pic_sample/1.png)
